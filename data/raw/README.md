@@ -1,1 +1,1 @@
-
+This is the raw data downloaded from https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system. Each CSV file represents a year. Note 2015 and 2026 are not complete years.
